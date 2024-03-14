@@ -1,4 +1,4 @@
-package sec05.ex01;
+package sec05.ch01.ex01;
 
 public class Button {
 
